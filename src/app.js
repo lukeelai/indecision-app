@@ -1,5 +1,7 @@
 // grab the add function from the add.js file in the utils folder
 // grab react from the npm modile
+import React from "react";
+import ReactDOM from "react-dom";
 
 class IndecisionApp extends React.Component {
   constructor(props) {
