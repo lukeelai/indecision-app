@@ -13,3 +13,5 @@
 // console.log(canDrink(18));
 // console.log(isAdult(18));
 // console.log(isSenior(18));
+import validator from "validator";
+console.log(validator.isEmail("luke@.com"));
